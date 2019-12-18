@@ -1,0 +1,82 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Xintong (Gillian) Bausch"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+timeout=3000
+publishDir = "docs/"
+
+[params]
+  subtitle= "Ph.D. student"
+  interests="Second Language Acquisition, Corpus Linguistics, Bilingualism, Quantitaive Method to SLA studies "
+  cv_name= "Bausch-CV-original.pdf"
+
+[[params.affilation]]
+  name = "The State University of New York at Albany"
+  position = "PhD Student"
+  contact = "gyu@albany.edu"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/GBasuch/Gillian-Bausch"
+
+[[params.social]]
+  name = "Facebook"
+  icon = "facebook"
+  url = "https://www.facebook.com/gillianyxt"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/xintong-bausch-b98835114/"
+
+[[params.introduction.paragraph]]
+  text="""I am currently a third year Ph.D. student at The State University of New York at Albany.
+  In the broadest sense, my research interests are Second Language Acquisition, Corpus Linguistics,
+  and Morphology. 
+  
+I earned her M.A. degree with distinction in The Hong Kong Polytechnic University in 2013. 
+I also rewarded with The HK PolyU English Department Postgraduate Awards 2012 – 2013.
+After earning the degree, I found my academic interests in Second Language Acquisition and decided to 
+gain more research experience. I worked with Dr. Li Lan in The Hong Kong PolyU on two funded research projects 
+“Investigating Dynamic Use of Metaphor by Hong Kong Students: A Corpus-driven, Comparative Study” and 
+“Perception and Production: Investigating the Problematic Aspects of Chinese Post Graduate Academic Writing”. 
+
+In 2017, I was enrolled as a doctoral student in Educational Theory and Practice 
+at SUNY Albany, under the supervision of Professor Istvan Kecskes. My dissertation is to identify the L2 
+students' difficulties on vocabulary use in academic writings. The ultimate goal is to help L2
+learners develop their academic literacy.
+
+   """
+[[params.projects]]
+	[[params.projects.project]]
+		name = "The Linguistic Features of Graeco-Latin word use by L2 Students in Academic Writings "
+		description  = "Words with Greek and Latin origins cause widespread challenges to Chinese English L2 learners, since Chinese does not share Greek and Latin heritage. There is minimal vocabulary teaching pedagogy to help those L2 learners to retain Graeco-Latin words. Consequently, these words are underrepresented in L2 learners’ mental lexicon. The following study aimed to investigate the linguistic features of Graeco-Latin word use by college-level Chinese-English L2 learners in their academic writings. The ultimate goal was to explore L2 learners’ ‘usage-signature’ in order to develop a tailored vocabulary intervention aimed at improving academic literacy."
+
+[[params.publications]]
+  year="Conference Prensentations"
+
+  [[params.publications.paper]]
+    name = "The Linguistic Features of Graeco-Latin Word use in Chinese-English L2 Students' Academic Writings"
+    authors = "Xintong Bausch"
+    dest="Linguistic Society of America  (LSA) 2020, New Orleans"
+    link = "https://www.linguisticsociety.org/node/17104/schedule"
+   
+  [[params.publications.paper]]
+    name = "Building a Database of Bilingual Speech and Intercultural Communication so as to Find a Usage-signiture of Bilinguals"
+    authors = "Istvan Kecskes, Monika Kirner-Ludwig, Liya Zalaltdinova, Xintong Bausch"
+    dest  = "4th International Conference of the American Pragmatics Association (AMPRA) 2018, Albany"
+    link = "https://americanpragmaticsassociation.org/wp-content/uploads/2019/07/AMPRA-4-Program.pdf"
+   
+ [[params.publications.paper]]
+    name = "The Development of Lexical and Conceptual Representation in Bilinguals' mind: A longitudinal study of bilingual mental lexicon"
+    authors = "Xintong YU"
+    dest  = "Linguistic Society of America  (LSA) Institute, University of Chicago"
+    link = "https://lsa2015.uchicago.edu/index.html"
+  [[params.publications.paper]]
+    name = "Corpus-based study on English-Chinese Metaphor Translation"
+    authors = "Xintong YU"
+    dest  = "WEAL 20th, UCLA"
+    link = "https://international.ucla.edu/japan/event/9941"
+
